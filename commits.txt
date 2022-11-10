@@ -1,0 +1,17 @@
+commit 838cbaa557ae82b929de3e9141c928809face239
+Author: Sayi <isaiah.rivas@anahuac.mx>
+Date:   Thu Nov 10 10:38:57 2022 -0600
+
+    Se agrego retorno al index
+
+commit 787669d3bec86fb5c8a96ded6d931a9fad69d7e3
+Author: Sayi <isaiah.rivas@anahuac.mx>
+Date:   Thu Nov 10 10:24:17 2022 -0600
+
+    Agregamos una copia de otra linea
+
+commit 13f8c3eedabab910e2ff35eb28802109d34bf9b6
+Author: Sayi <isaiah.rivas@anahuac.mx>
+Date:   Thu Nov 10 10:22:00 2022 -0600
+
+    Iniciamos
